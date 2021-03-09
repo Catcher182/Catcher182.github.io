@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: PHOENIX
+title: 枫叶苑
 subtitle: ''
 description: '刹那间的美丽 一瞬间的永恒'
 keywords:
@@ -100,12 +100,6 @@ ignore:
 theme: next
 
 
-feed:
-  type: rss2
-  path: rss2.xml
-  limit: 10
-  hub:
-  content: 'true'
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
